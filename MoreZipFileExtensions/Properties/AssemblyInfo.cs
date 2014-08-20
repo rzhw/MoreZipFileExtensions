@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("MoreZipFileExtensions")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Richard Z.H. Wang")]
 [assembly: AssemblyProduct("MoreZipFileExtensions")]
 [assembly: AssemblyCopyright("Copyright © 2014 Richard Z.H. Wang")]
 [assembly: AssemblyTrademark("")]
